@@ -21,3 +21,24 @@ In this porject we tried learning the Software Development Life Cycle (by doing 
   - **Code (System) Design**: Created a Data FLow Diagram for the Medical-Assistant App, by providing description of the design, also shows how the functions described in the SRS can be implemented. Created an ER Diagram to show the Data Desing and Description, which helps in expressing the internal structure, organization and relationships in data stores. (Additionally to understand object oriecntede approach, created UML for calendar app by creating few Use Case Diagrams, Domain Modelling, Sequence Diagrams, Class Diagrams)
   - **Coding and Code Testing**: Created a mapping between module/submodules in the DFD and the corresponding functions in code (including code of few functiions). Implemented Black Box Testing by designing test cases through examination of the input/output values for the functions included earlier in both approaches of Equivalence Class Partitioning and Boundary Value Analysis. Also, implemented White Box Testing, in this test cases are designed using knowledge of internal structure of software code, only created for Path Coverage Test using the control flow graph (CFG).
 
+
+**References Used**:
+- CS345 Lecture Slides by Dr. Samit Bhattacharya at IITG
+- Fundamentals of Software Engineering, Rajib Mall
+- Roger Pressman –S/W Engineering: A Practitioner’s Approach
+
+
+
+
+
+
+
+
+**Member Contributed in this Group-13 Project**:
+- Tanay Maheshwari 190101092
+- Vignesh Ravichandra Rao 190101109
+- Tattukolla Lokesh 190101094 (Me)
+- Shreyansh Meena 190101084
+
+
+
